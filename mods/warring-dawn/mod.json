@@ -1,0 +1,56 @@
+{
+  "format": "tessera4x-mod/1",
+  "name": "Warring Dawn",
+  "author": "Tessera4X",
+  "description": "Every neighbour is a threat from the first turn. Soldiers come cheap and hit harder, walls come late and dear, and borders grow slowly in an age of raids.",
+  "units": {
+    "warrior": {
+      "cost": 32,
+      "strength": 8
+    },
+    "archer": {
+      "cost": 32,
+      "rangedStrength": 7
+    },
+    "spearman": {
+      "cost": 45,
+      "strength": 12
+    },
+    "horseman": {
+      "cost": 65
+    },
+    "swordsman": {
+      "cost": 60,
+      "strength": 15
+    },
+    "catapult": {
+      "cost": 80,
+      "bonusVsCities": 250
+    }
+  },
+  "buildings": {
+    "monument": {
+      "culture": 1
+    },
+    "walls": {
+      "cost": 140
+    }
+  },
+  "techs": {
+    "archery": {
+      "cost": 25
+    },
+    "bronzeWorking": {
+      "cost": 40
+    },
+    "horsebackRiding": {
+      "cost": 85
+    },
+    "ironWorking": {
+      "cost": 80
+    },
+    "mathematics": {
+      "cost": 90
+    }
+  }
+}

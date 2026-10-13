@@ -1,0 +1,57 @@
+{
+  "format": "tessera4x-mod/1",
+  "name": "The Great Works",
+  "author": "Tessera4X",
+  "description": "An age of builders. The ancient wonders come cheaper and give more, monuments raise culture faster, and any capital can make a run at one. The Concord sits a little further off, to keep the clock honest.",
+  "buildings": {
+    "monument": {
+      "cost": 40,
+      "culture": 3
+    }
+  },
+  "wonders": {
+    "stonehenge": {
+      "cost": 110,
+      "culture": 5
+    },
+    "templeOfArtemis": {
+      "cost": 120,
+      "yields": {
+        "food": 4
+      }
+    },
+    "pyramids": {
+      "cost": 130,
+      "culture": 2
+    },
+    "greatLibrary": {
+      "cost": 160
+    },
+    "colossus": {
+      "cost": 150
+    },
+    "hangingGardens": {
+      "cost": 170,
+      "yields": {
+        "food": 6
+      }
+    },
+    "pontDuGard": {
+      "cost": 190
+    },
+    "concord": {
+      "cost": 480
+    }
+  },
+  "techs": {
+    "mining": {
+      "cost": 28
+    },
+    "masonry": {
+      "cost": 40
+    },
+    "bronzeWorking": {
+      "cost": 45
+    }
+  }
+}

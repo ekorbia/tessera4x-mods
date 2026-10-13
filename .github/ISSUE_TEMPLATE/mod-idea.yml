@@ -1,0 +1,22 @@
+name: Mod idea
+description: A mod you'd like to see, or would like help making.
+labels: [idea]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: The idea
+      description: What should the game feel like under this mod? A theme, a book, an age, a twist on the opening.
+    validations:
+      required: true
+  - type: textarea
+    id: changes
+    attributes:
+      label: What it would change
+      description: Units, buildings, wonders, technologies, civilizations, terrain, the start era or the victories. Rough numbers are fine.
+  - type: checkboxes
+    id: making
+    attributes:
+      label: Making it
+      options:
+        - label: I'd like to make it myself

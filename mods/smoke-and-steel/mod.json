@@ -1,0 +1,80 @@
+{
+  "format": "tessera4x-mod/1",
+  "name": "Smoke and Steel",
+  "author": "Tessera4X",
+  "description": "Last empire standing. The world wakes in the age of rails and rifles with the Concord, the Meridian and the Laurel Arch switched off: take every rival city, or hold the best score when the clock runs out. The war is fought on land.",
+  "startEra": "industrial",
+  "victories": {
+    "concord": false,
+    "meridian": false,
+    "laurelArch": false
+  },
+  "units": {
+    "musketman": {
+      "name": "Line Infantry"
+    },
+    "crossbowman": {
+      "name": "Sharpshooter",
+      "strength": 16,
+      "rangedStrength": 24
+    },
+    "rifleman": {
+      "cost": 190
+    },
+    "cavalry": {
+      "cost": 200
+    },
+    "artillery": {
+      "cost": 210
+    },
+    "ironclad": {
+      "bonusVsCities": 0
+    },
+    "battleship": {
+      "bonusVsCities": 0
+    },
+    "fighter": {
+      "cost": 480
+    },
+    "bomber": {
+      "cost": 520
+    }
+  },
+  "techs": {
+    "militaryScience": {
+      "cost": 520
+    },
+    "rifling": {
+      "cost": 520
+    },
+    "dynamite": {
+      "cost": 640
+    },
+    "railroads": {
+      "cost": 720
+    },
+    "flight": {
+      "cost": 2400
+    },
+    "radar": {
+      "cost": 2600
+    }
+  },
+  "buildings": {
+    "factory": {
+      "cost": 240
+    },
+    "courthouse": {
+      "cost": 90,
+      "maintenance": 2
+    },
+    "basilica": {
+      "maintenance": 1
+    }
+  },
+  "wonders": {
+    "brandenburgGate": {
+      "cost": 320
+    }
+  }
+}

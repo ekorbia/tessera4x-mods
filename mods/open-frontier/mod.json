@@ -1,0 +1,48 @@
+{
+  "format": "tessera4x-mod/1",
+  "name": "Open Frontier",
+  "author": "Tessera4X",
+  "description": "An empty continent and cheap pioneers: the land rush starts on turn one. Land is cheap; holding it is not. Walls come dear, and every new town strains the peace.",
+  "units": {
+    "settler": {
+      "name": "Pioneer",
+      "cost": 60
+    },
+    "worker": {
+      "cost": 50
+    },
+    "scout": {
+      "moves": 3,
+      "sight": 3
+    }
+  },
+  "buildings": {
+    "monument": {
+      "cost": 45,
+      "happiness": 1
+    },
+    "granary": {
+      "cost": 80
+    },
+    "colosseum": {
+      "cost": 120
+    },
+    "walls": {
+      "cost": 130
+    }
+  },
+  "techs": {
+    "agriculture": {
+      "cost": 15
+    },
+    "pottery": {
+      "cost": 28
+    },
+    "animalHusbandry": {
+      "cost": 28
+    },
+    "theWheel": {
+      "cost": 45
+    }
+  }
+}

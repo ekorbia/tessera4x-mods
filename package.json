@@ -1,0 +1,15 @@
+{
+  "name": "tessera4x-mods",
+  "private": true,
+  "description": "Mods for Tessera4X: house rules as small JSON files.",
+  "license": "SEE LICENSE IN LICENSE",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "check": "node scripts/check.mjs",
+    "catalogue": "node scripts/catalogue.mjs",
+    "links": "node scripts/links.mjs"
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "format": "tessera4x-mod/1",
+  "name": "Kings of Bronze",
+  "author": "Tessera4X",
+  "description": "The Late Bronze Age, around 1300 BC: six great kingdoms trade letters and blows. Bronze is cheap, iron is a secret, chariots rule the field, and the ancient era lasts.",
+  "civs": {
+    "rome": {
+      "name": "Assyria",
+      "leader": "Ashur-uballit I",
+      "cityNames": [
+        "Assur",
+        "Nineveh",
+        "Kalhu",
+        "Arbela",
+        "Kar-Tukulti-Ninurta",
+        "Dur-Katlimmu",
+        "Shibaniba",
+        "Tarbisu",
+        "Kilizi",
+        "Imgur-Enlil",
+        "Harran",
+        "Taidu",
+        "Ekallatum",
+        "Shubat-Enlil",
+        "Arrapha",
+        "Nuzi",
+        "Karana",
+        "Kahat",
+        "Guzana",
+        "Tushhan",
+        "Amidi",
+        "Til Barsip",
+        "Dur-Sharrukin",
+        "Hindanu"
+      ]
+    },
+    "egypt": {
+      "leader": "Ramesses II",
+      "cityNames": [
+        "Pi-Ramesses",
+        "Thebes",
+        "Memphis",
+        "Abydos",
+        "Akhetaten",
+        "Hermopolis",
+        "Heliopolis",
+        "Bubastis",
+        "Elephantine",
+        "Buhen",
+        "Sais",
+        "Tanis",
+        "Avaris",
+        "Herakleopolis",
+        "Coptos",
+        "Edfu",
+        "Esna",
+        "Ombos",
+        "Dendera",
+        "Lycopolis",
+        "Panopolis",
+        "Mendes",
+        "Tjaru",
+        "Shedet"
+      ]
+    },
+    "greece": {
+      "name": "Mycenae",
+      "leader": "Agamemnon",
+      "cityNames": [
+        "Mycenae",
+        "Tiryns",
+        "Pylos",
+        "Orchomenos",
+        "Iolkos",
+        "Athens",
+        "Argos",
+        "Midea",
+        "Gla",
+        "Knossos",
+        "Kydonia",
+        "Dimini",
+        "Sparta",
+        "Corinth",
+        "Eleusis",
+        "Asine",
+        "Nauplion",
+        "Amyklai",
+        "Phylakopi",
+        "Kalydon",
+        "Ithaca",
+        "Krisa",
+        "Thorikos",
+        "Prosymna"
+      ]
+    },
+    "babylon": {
+      "leader": "Burna-Buriash II",
+      "cityNames": [
+        "Babylon",
+        "Dur-Kurigalzu",
+        "Nippur",
+        "Ur",
+        "Uruk",
+        "Isin",
+        "Larsa",
+        "Sippar",
+        "Kish",
+        "Borsippa",
+        "Der",
+        "Eridu",
+        "Lagash",
+        "Umma",
+        "Adab",
+        "Shuruppak",
+        "Marad",
+        "Kutha",
+        "Dilbat",
+        "Girsu",
+        "Eshnunna",
+        "Mari",
+        "Kisurra",
+        "Bad-tibira"
+      ]
+    },
+    "china": {
+      "name": "Shang",
+      "leader": "Wu Ding",
+      "cityNames": [
+        "Yin",
+        "Ao",
+        "Bo",
+        "Xiang",
+        "Geng",
+        "Yanshi",
+        "Panlongcheng",
+        "Huanbei",
+        "Xiaoshuangqiao",
+        "Taixi",
+        "Daxinzhuang",
+        "Laoniupo",
+        "Bi",
+        "Yan",
+        "Wucheng",
+        "Dongxiafeng",
+        "Yuanqu",
+        "Fucheng",
+        "Qianzhangda",
+        "Subutun",
+        "Xiaotun",
+        "Erligang",
+        "Dasikong",
+        "Guandimiao"
+      ]
+    },
+    "france": {
+      "name": "Hatti",
+      "leader": "Hattusili III",
+      "cityNames": [
+        "Hattusa",
+        "Sapinuwa",
+        "Tarhuntassa",
+        "Nerik",
+        "Arinna",
+        "Samuha",
+        "Sarissa",
+        "Kussara",
+        "Kanesh",
+        "Carchemish",
+        "Tapikka",
+        "Zippalanda",
+        "Alalakh",
+        "Ugarit",
+        "Emar",
+        "Halab",
+        "Kummanni",
+        "Tarsa",
+        "Adaniya",
+        "Purushanda",
+        "Hurma",
+        "Ankuwa",
+        "Zalpa",
+        "Hakmis"
+      ]
+    }
+  },
+  "buildings": {
+    "basilica": {
+      "name": "Governor's Palace"
+    },
+    "palaestra": {
+      "name": "Megaron Hall",
+      "blurb": "+4 happiness, +1 culture, cheaper to keep — Mycenae feasts in the great hall."
+    },
+    "teahouse": {
+      "name": "Cowrie Market",
+      "blurb": "+4 gold and +1 happiness — the Shang count their wealth in shells."
+    },
+    "salon": {
+      "name": "Tablet Archive",
+      "blurb": "+3 happiness, +2 culture — needs a Colosseum. Hatti keeps every treaty it ever sealed."
+    }
+  },
+  "units": {
+    "warrior": {
+      "name": "Axeman"
+    },
+    "archer": {
+      "name": "Composite Bowman",
+      "rangedStrength": 7
+    },
+    "spearman": {
+      "strength": 12
+    },
+    "horseman": {
+      "name": "Chariot",
+      "cost": 70,
+      "blurb": "Four moves and a bow at the rail: it chooses its fight and leaves. Ruined by spears."
+    },
+    "swordsman": {
+      "cost": 95
+    },
+    "trireme": {
+      "name": "Galley",
+      "strength": 12
+    }
+  },
+  "techs": {
+    "pottery": {
+      "cost": 28
+    },
+    "animalHusbandry": {
+      "cost": 28
+    },
+    "archery": {
+      "cost": 28
+    },
+    "mining": {
+      "cost": 28
+    },
+    "bronzeWorking": {
+      "cost": 40
+    },
+    "theWheel": {
+      "cost": 40
+    },
+    "masonry": {
+      "cost": 45
+    },
+    "horsebackRiding": {
+      "name": "Chariotry",
+      "cost": 75,
+      "blurb": "Two horses, a driver and a bow. Speed becomes a weapon in its own right."
+    },
+    "ironWorking": {
+      "cost": 160
+    },
+    "philosophy": {
+      "cost": 130
+    },
+    "mathematics": {
+      "cost": 130
+    },
+    "construction": {
+      "cost": 130
+    }
+  }
+}

@@ -1,0 +1,23 @@
+name: A mod won't load
+description: A mod from this repo that the game refuses, or that plays wrong.
+labels: [bug]
+body:
+  - type: input
+    id: mod
+    attributes:
+      label: Which mod
+      placeholder: mods/open-frontier
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: Paste what the game said. In the mod panel (New game → Mods), "Copy errors for your assistant" copies it all.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Game version
+      description: It's at the foot of the game's menu.
