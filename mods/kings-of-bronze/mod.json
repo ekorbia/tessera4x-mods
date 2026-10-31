@@ -189,15 +189,15 @@
     },
     "palaestra": {
       "name": "Megaron Hall",
-      "blurb": "+4 happiness, +1 culture, cheaper to keep — Mycenae feasts in the great hall."
+      "blurb": "+5 happiness, +2 culture, cheaper to keep — Mycenae feasts in the great hall."
     },
     "teahouse": {
       "name": "Cowrie Market",
-      "blurb": "+4 gold and +1 happiness — the Shang count their wealth in shells."
+      "blurb": "+6 gold and +1 happiness — the Shang count their wealth in shells."
     },
     "salon": {
       "name": "Tablet Archive",
-      "blurb": "+3 happiness, +2 culture — needs a Colosseum. Hatti keeps every treaty it ever sealed."
+      "blurb": "+3 happiness, +3 culture — needs a Colosseum. Hatti keeps every treaty it ever sealed."
     }
   },
   "units": {
@@ -214,7 +214,7 @@
     "horseman": {
       "name": "Chariot",
       "cost": 70,
-      "blurb": "Four moves and a bow at the rail: it chooses its fight and leaves. Ruined by spears."
+      "blurb": "Fast, with a bow at the rail: it chooses its fight and leaves. Ruined by spears."
     },
     "swordsman": {
       "cost": 95

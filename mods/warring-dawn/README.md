@@ -15,8 +15,9 @@ Catapults get +250% against cities.
 
 Walls cost 140, and the Monument gives 1 culture instead of 2, so borders and
 policies come slowly. The opening is a question of how many soldiers you can
-afford before you build anything else. Barbarian camps raise Warriors too, so
-raiders hit at 8 as well, and rivals arm faster because soldiers are cheap.
+afford before you build anything else. Rivals arm faster because soldiers are
+cheap. From Hard up, barbarian camps raise Warriors too, so raiders hit at 8
+as well.
 
 ## What changes
 
@@ -45,20 +46,20 @@ raiders hit at 8 as well, and rivals arm faster because soldiers are cheap.
 
 ## Balance Lab
 
-48 machine-only skirmishes, the Lab's own worlds (a Tiny map, three civilizations, 60 turns), each played twice: by the game's own rules and by this mod. Run on Tessera4X 1.3.
+48 machine-only skirmishes, the Lab's own worlds (a Tiny map, three civilizations, 60 turns), each played twice: by the game's own rules and by this mod. Run on Tessera4X 1.5.
 
 | | Game's own rules | This mod |
 |---|---|---|
 | Games ended on score at the final turn | 48 of 48 | 48 of 48 |
-| Cities per civilization at the end | 6.1 | 6.2 |
-| Score per civilization | 343 | 350 |
-| Soldiers raised per game | 61.2 | 68.6 |
-| Wonders standing per game | 3.5 | 4.1 |
-| Civilizations knocked out | 1 of 144 | 2 of 144 |
-| Warriors raised per game | 10.5 | 11.8 |
-| Archers raised per game | 13.5 | 15.8 |
-| Swordsmen raised per game | 2.5 | 4.4 |
-| Catapults raised per game | 1.5 | 1.6 |
-| Walls standing per game | 0.4 | 0.3 |
+| Cities per civilization at the end | 3.9 | 3.9 |
+| Score per civilization | 301 | 302 |
+| Soldiers raised per game | 51.7 | 57.0 |
+| Wonders standing per game | 4.0 | 4.3 |
+| Civilizations knocked out | 5 of 144 | 6 of 144 |
+| Warriors raised per game | 14.2 | 16.2 |
+| Archers raised per game | 9.5 | 10.2 |
+| Swordsmen raised per game | 1.4 | 2.1 |
+| Catapults raised per game | 2.1 | 2.8 |
+| Walls standing per game | 2.6 | 2.1 |
 
-Rivals raise about an eighth more soldiers and nearly twice the Swordsmen, but the map ends much as it does by the game's own rules. The cheap army matters most in the hands of a player who uses it.
+Rivals raise about a tenth more soldiers and half again the Swordsmen, but the map ends much as it does by the game's own rules. The cheap army matters most in the hands of a player who uses it.

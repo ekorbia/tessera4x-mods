@@ -11,9 +11,9 @@
 
 Every civilization begins in the industrial age, knowing every technology
 through the renaissance, with a size-5 capital and six buildings, 2 settlers,
-2 workers, 200 gold, a store of horses, iron and coal, and an army of two Line
-Infantry (the Musketman, renamed) and a Sharpshooter (the Crossbowman, renamed
-and raised to 16 strength and 24 ranged).
+2 workers, 200 gold, a store of horses, iron, coal and oil, and an army of two
+Line Infantry (the Musketman, renamed) and a Sharpshooter (the Crossbowman,
+renamed and raised to 16 strength and 24 ranged).
 
 The Concord, the Meridian and the Laurel Arch are switched off. A game ends
 when one empire has taken every rival city, or at the final turn on score.
@@ -60,23 +60,23 @@ still small.
 
 ## Balance Lab
 
-48 machine-only skirmishes, the Lab's own worlds (a Tiny map, three civilizations, 60 turns), each played twice: by the game's own rules and by this mod. Run on Tessera4X 1.3.
+48 machine-only skirmishes, the Lab's own worlds (a Tiny map, three civilizations, 60 turns), each played twice: by the game's own rules and by this mod. Run on Tessera4X 1.5.
 
 | | Game's own rules | This mod |
 |---|---|---|
 | Games ended on score at the final turn | 48 of 48 | 48 of 48 |
-| Cities per civilization at the end | 7.3 | 7.3 |
-| Score per civilization | 465 | 474 |
-| Soldiers raised per game | 45.2 | 48.6 |
-| Wonders standing per game | 1.1 | 1.4 |
-| Civilizations knocked out | 0 of 144 | 0 of 144 |
-| Artillery raised per game | 2.9 | 12.2 |
-| Riflemen raised per game | 6.0 | 6.2 |
-| Cavalry raised per game | 12.8 | 12.4 |
-| Sharpshooters (Crossbowmen) raised per game | 0.0 | 8.5 |
-| Factories standing per game | 0.5 | 0.4 |
-| Games with the Brandenburg Gate standing | 60% | 71% |
+| Cities per civilization at the end | 4.4 | 4.5 |
+| Score per civilization | 405 | 409 |
+| Soldiers raised per game | 31.4 | 32.8 |
+| Wonders standing per game | 2.4 | 2.8 |
+| Civilizations knocked out | 3 of 144 | 0 of 144 |
+| Artillery raised per game | 1.3 | 3.5 |
+| Riflemen raised per game | 2.7 | 3.0 |
+| Cavalry raised per game | 9.8 | 10.9 |
+| Sharpshooters (Crossbowmen) raised per game | 0.0 | 7.8 |
+| Factories standing per game | 0.6 | 0.5 |
+| Games with the Brandenburg Gate standing | 100% | 100% |
 
-Both columns begin in the Industrial era. The machine leans on the cheaper guns: four times the Artillery, and the Sharpshooter becomes its ranged unit of choice. Cities, score and wonders barely move, and no civilization was knocked out in either column.
+Both columns begin in the Industrial era. The machine leans on the cheaper guns: nearly three times the Artillery, and the Sharpshooter becomes its ranged unit of choice. Cities, score and wonders barely move.
 
-Machine rivals don't conquer one another in a 60-turn skirmish, under any numbers tried: with walls and castles worth almost nothing and artillery at +300% against cities, 48 of 48 games still ended on score. The conquering is yours to do, and a full game gives it the most room.
+Machine rivals can knock one another out, but they don't finish a conquest in a 60-turn skirmish, under any numbers tried: with walls and castles worth almost nothing and artillery at +300% against cities, 6 of 144 civilizations fell and 48 of 48 games still ended on score. Last empire standing is yours to reach, and a full game gives it the most room.
